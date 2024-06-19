@@ -1,1 +1,0 @@
-# Synthetic-Segmentation-Data-Generator
